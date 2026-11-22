@@ -12,9 +12,9 @@ Photovoltaïque · Stockage · Hydrogène · Ressources renouvelables en milieu 
 
 | Projet | Sujet | Outils |
 |---|---|---|
-| [era5-maurice-ressource-production](https://github.com/maitreruiz/era5-maurice-ressource-production) | Réanalyses ERA5 : de la ressource à la production et au risque (site de Maurice) | Python, xarray, pandas, Matplotlib |
-| [enso-vent-100m-reunion](https://github.com/maitreruiz/enso-vent-100m-reunion) | Influence d'El Niño (indice Niño3.4) sur le vent à 100 m à La Réunion | Python, xarray, pandas, Matplotlib |
-| [diagnostic-h2-acp-knn](https://github.com/maitreruiz/diagnostic-h2-acp-knn) | Diagnostic de systèmes PEM : indicateurs statistiques, ACP, classification KNN | Python, NumPy, scikit-learn |
+| [era5-maurice-ressource-production](https://github.com/nicolas-noyon/era5-maurice-ressource-production) | Réanalyses ERA5 : de la ressource à la production et au risque (site de Maurice) | Python, xarray, pandas, Matplotlib |
+| [enso-vent-100m-reunion](https://github.com/nicolas-noyon/enso-vent-100m-reunion) | Influence d'El Niño (indice Niño3.4) sur le vent à 100 m à La Réunion | Python, xarray, pandas, Matplotlib |
+| [diagnostic-h2-acp-knn](https://github.com/nicolas-noyon/diagnostic-h2-acp-knn) | Diagnostic de systèmes PEM : indicateurs statistiques, ondelettes, ACP, classification KNN | Python, NumPy, pandas, PyWavelets, scikit-learn |
 
 ## Compétences
 
