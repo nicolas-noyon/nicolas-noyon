@@ -1,9 +1,9 @@
 # Nicolas NOYON
 
-**Étudiant en Master 2 Énergie – Université de La Réunion (ENERGY-Lab)**
+**Étudiant en Master 2 Énergie – Université de La Réunion (ENERGY-Lab)**  
 Photovoltaïque · Stockage · Hydrogène · Ressources renouvelables en milieu tropical
 
-📍 Saint-Denis, La Réunion · ✉️ nicolasnoyon.pro@gmail.com
+📍 Saint-Denis, La Réunion · ✉️ nicolasnoyon.pro@gmail.com  
 🔎 Je recherche un **stage de fin d'études M2 (4 à 6 mois, 2027)** en énergies renouvelables.
 
 ---
